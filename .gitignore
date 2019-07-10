@@ -1,4 +1,4 @@
-.idea/*
-.ipynb_checkpoints/*
-*/build/*
-*/build_debug/*
+.idea/
+.ipynb_checkpoints/
+**/build/
+**/build-debug/
